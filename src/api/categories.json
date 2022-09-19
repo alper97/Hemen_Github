@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Yeni Ürünler",
+        "image": "http://cdn.getir.com/cat/5697c78dc181490f00c99fea_f7ef7ccb-f3a4-4388-b787-232967c16320.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "İndirimler",
+        "image": "http://cdn.getir.com/cat/5fd8c58f3bdc2389a56e0fb0_3322c10f-2eed-4ce9-ab5a-90db5ce067f2.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Su & İçecek",
+        "image": "http://cdn.getir.com/cat/551430043427d5010a3a5c5e_1619242669958_1619242670038.jpeg"
+    }
+]
